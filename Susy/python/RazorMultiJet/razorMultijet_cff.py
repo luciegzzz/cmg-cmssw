@@ -343,8 +343,8 @@ from CMGTools.Susy.common.trackIsolationMaker_cfi import trackIsolationMaker
 razorMJTrackIsolationMaker = trackIsolationMaker.clone()
 razorMJTrackIsolationMaker.vertexInputTag = cms.InputTag("offlinePrimaryVertices")
 razorMJTrackIsolationMaker.minPt_cmgCandidate = cms.double(10.0)
-#razorMJTrackIsolationMaker.cmgCandidatesTag = cms.InputTag("cmgCandidates")
-razorMJTrackIsolationMaker.cmgCandidatesTag = cms.InputTag("pfNoPileUp")
+razorMJTrackIsolationMaker.cmgCandidatesTag = cms.InputTag("cmgCandidates")
+#razorMJTrackIsolationMaker.cmgCandidatesTag = cms.InputTag("pfNoPileUp")
 razorMJTrackIsolationMaker.vetoCollections = cms.VInputTag()
 
 ### Isolated Tracks veto, leptonic

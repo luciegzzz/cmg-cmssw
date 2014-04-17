@@ -8,7 +8,7 @@ from CMGTools.Production.datasetToSource import *
 #datasetInfo = ('cmgtools', '/SMS-T2tt_mStop-675to800_mLSP-300to700_8TeV-Pythia6Z/Summer12-START52_V9_FSIM-v1/AODSIM/V5_B/CMGPF_V5_16_0/','cmgTuple_[a-z,A-Z,0-9,_]+\\.root')
 #datasetInfo = ('cmgtools', '/SMS-T2tt_mStop-825to900_mLSP-1_and_mLSP-25to800_8TeV-Pythia6Zstar/Summer12-START52_V9_FSIM-v3/AODSIM/V5_B/CMGPF_V5_16_0/','cmgTuple_[a-z,A-Z,0-9,_]+\\.root')
 #datasetInfo = ('cmgtools', '/SMS-T2tt_mStop-925to1000_mLSP-1_and_mLSP-25to900_8TeV-Pythia6Zstar/Summer12-START52_V9_FSIM-v3/AODSIM/V5_B/CMGPF_V5_16_0/','cmgTuple_[a-z,A-Z,0-9,_]+\\.root')
-datasetInfo = ('cmgtools', '/SMS-8TeV-Pythia6Z_T2tt_mStop-150to475_mLSP-1/Summer12-START52_V9_FSIM-v1/AODSIM/V5_B/CMGPF_V5_16_0/','cmgTuple_[a-z,A-Z,0-9,_]+\\.root')
+#datasetInfo = ('cmgtools', '/SMS-8TeV-Pythia6Z_T2tt_mStop-150to475_mLSP-1/Summer12-START52_V9_FSIM-v1/AODSIM/V5_B/CMGPF_V5_16_0/','cmgTuple_[a-z,A-Z,0-9,_]+\\.root')
 datasetInfo = ('cmgtools', '/SMS-8TeV-Pythia6Z_T2tt_mStop-500to800_mLSP-1/Summer12-START52_V9_FSIM-v1/AODSIM/V5_B/CMGPF_V5_16_0/','cmgTuple_[a-z,A-Z,0-9,_]+\\.root')
 
 
