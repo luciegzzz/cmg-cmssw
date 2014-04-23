@@ -51,8 +51,8 @@ private:
   edm::InputTag vertexInputTag_;
   std::vector<edm::InputTag> vetoCollectionTags_;
 
-  //typedef std::vector< cmg::Candidate > cmgCandidateCollection;
-  typedef std::vector< reco::PFCandidate > cmgCandidateCollection;
+  typedef std::vector< cmg::Candidate > cmgCandidateCollection;
+  //typedef std::vector< reco::PFCandidate > cmgCandidateCollection;
   const cmgCandidateCollection *cmgCandidates;
 
 };
